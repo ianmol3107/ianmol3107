@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm a passionate **Data Science** and **Technology Explorer** with a strong interest in solving real-world problems using **data-driven insights** and **machine learning**.
 
-<img src="Assets/1626753867110.gif" alt="Data Science Enthusiast" />
+<img src="Assests/1626753867110.gif" alt="Data Science Enthusiast" />
 
 - 🏙️ **Location**: Delhi, India  
 - 🎓 **Education**: MCA (Master of Computer Applications) from **KIET Group of Institutions** - 8.0 CGPA  
