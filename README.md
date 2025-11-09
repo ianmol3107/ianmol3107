@@ -39,7 +39,7 @@ _Amy Softech Pvt. Ltd._ | 📅 _6–7 Months_
 ## 🎓 Education
 
 **Postgraduate (MCA)**  
-_KIET Group of Institutions_ | 75%  
+_KIET Group of Institutions_ | 76%  
 - Specialized in Computer Applications and Software Development  
 
 **Data Science Course (Ongoing)**  
