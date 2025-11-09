@@ -103,7 +103,7 @@ _Masai School, Bengaluru_
 
 ## 🏅 Achievements & Certifications
 
-- 🏆 **Postgraduate MCA (75%) – KIET Group of Institutions**  
+- 🏆 **Postgraduate MCA (76%) – KIET Group of Institutions**  
 - 🎯 **Selected for Placement at Amy Softech Pvt. Ltd. and TecOrb Pvt Ltd.**
 - 📘 Ongoing practice in **Machine Learning, EDA, and SQL projects**
 
