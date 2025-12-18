@@ -61,13 +61,6 @@ _Masai School, Bengaluru_
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
 ---
-## 🏅 Achievements & Certifications
-
-- 🏆 **Postgraduate MCA – KIET Group of Institutions**  
-- 🎯 **Selected for Placement at Amy Softech Pvt. Ltd. and TecOrb Pvt Ltd.**
-- 📘 Ongoing practice in **Python, Machine Learning, EDA, Power Bi, and SQL projects**
-
----
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-dubey-508142243)  
